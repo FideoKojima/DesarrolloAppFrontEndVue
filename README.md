@@ -159,8 +159,6 @@ firebase deploy
 
 ## 🤝 Contacto
 
-Tu Nombre - [@tuTwitter](https://twitter.com/tuTwitter) - email@example.com
-
 Link del Proyecto: [https://desarrollo-app-front-end-vue.vercel.app/](https://desarrollo-app-front-end-vue.vercel.app/)
 
 ---
