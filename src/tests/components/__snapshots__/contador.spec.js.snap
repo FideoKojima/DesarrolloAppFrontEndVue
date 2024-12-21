@@ -1,0 +1,22 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Componente Contador.vue > Validación de match con el snapshot 1`] = `
+"<div class="container centrar"><br><br><br>
+  <h3 class="counter">Contador: 0</h3><br>
+  <div><button class="btn btn-primary incrementar">Incrementar</button><button class="btn btn-warning disminuir">Disminuir</button></div>
+</div>"
+`;
+
+exports[`Componente Contador.vue > Validación de match con el snapshot 2`] = `
+"<div class="container centrar"><br><br><br>
+  <h3 class="counter">Contador: 0</h3><br>
+  <div><button class="btn btn-primary incrementar">Incrementar</button><button class="btn btn-warning disminuir">Disminuir</button></div>
+</div>"
+`;
+
+exports[`Componente Contador.vue > Validación valor inicial cero, con el snapshot 1`] = `
+"<div class="container centrar"><br><br><br>
+  <h3>Contador: 0</h3><br>
+  <div><button class="btn btn-primary incrementar">Incrementar</button><button class="btn btn-warning disminuir">Disminuir</button></div>
+</div>"
+`;
