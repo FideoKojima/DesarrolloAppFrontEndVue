@@ -157,16 +157,12 @@ firebase deploy
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
-
 ## 🤝 Contacto
 
 Tu Nombre - [@tuTwitter](https://twitter.com/tuTwitter) - email@example.com
 
-Link del Proyecto: [https://github.com/your-username/vue-testing-project](https://github.com/your-username/vue-testing-project)
+Link del Proyecto: [https://desarrollo-app-front-end-vue.vercel.app/](https://desarrollo-app-front-end-vue.vercel.app/)
 
 ---
 
-⌨️ con ❤️ por [Tu Nombre](https://github.com/your-username) 😊
+⌨️ con ❤️ por [Luis Suarez](https://github.com/FideoKojima/) 😊
